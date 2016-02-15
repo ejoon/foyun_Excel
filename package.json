@@ -1,0 +1,19 @@
+{
+  "name": "foyun",
+  "version": "1.0.0",
+  "description": "we never give up change the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejoon/foyun_Excel.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejoon/foyun_Excel/issues"
+  },
+  "homepage": "https://github.com/ejoon/foyun_Excel#readme"
+}
